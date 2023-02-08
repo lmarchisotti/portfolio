@@ -1,13 +1,10 @@
-# portfolio
-Personal projects and sandbox
-
 # Project Title
 
-Simple overview of use/purpose.
+Portfolio - Personal projects and sandbox
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This project was created to show some ideas and possibilities how Data Science can be useful in extracting info from datasets.
 
 ## Getting Started
 
@@ -40,7 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
+ex. Lucas Marchisotti  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
@@ -49,7 +46,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
     * Various bug fixes and optimizations
     * See [commit change]() or See [release history]()
 * 0.1
-    * Initial Release
+    * Initial upload, working datasets
 
 ## License
 
